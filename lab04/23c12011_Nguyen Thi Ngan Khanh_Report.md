@@ -153,4 +153,5 @@ $ go run main.go
 ```
 
 ## Show case
-![Screenshot 2023-12-31 223426](https://github.com/ngankhanh98/distributed-systems/assets/32817908/34dd3da0-9737-4bab-912e-0e2d3b319d8e)
+![image](https://raw.githubusercontent.com/ngankhanh98/distributed-systems/main/lab04/Screenshot%202024-02-28%20204805.png)
+![image](https://raw.githubusercontent.com/ngankhanh98/distributed-systems/main/lab04/Screenshot%202024-02-28%20204836.png)
